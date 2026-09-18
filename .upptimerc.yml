@@ -9,6 +9,8 @@ sites:
     url: https://kamimachine.com
   - name: Kome Smart
     url: https://kome.top
+  - name: Github Hoangdacviet
+    url: http://hoangdacviet.github.io
   - name: Secret Site
     url: $https://kami.vn
 
