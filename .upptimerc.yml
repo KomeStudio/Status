@@ -22,7 +22,7 @@ status-website:
   introTitle: "🎮 Kome Studio 🚀 Building KomeVerse 😊 Play Smile Belong 🌱"
   introMessage: Status page **real-time** data from our komestudio.com No server required
   navbar:
-    - title: Status
+    - title: Kome Studio Status
       href: /
     - title: GitHub
       href: https://github.com/KomeStudio/Status
