@@ -17,15 +17,21 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.komestudio.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "🎮 Kome Studio 🚀 Building KomeVerse 😊 Play Smile Belong 🌱"
+  logoUrl: https://raw.githubusercontent.com/KomeStudio/Status/refs/heads/gh-pages/KomE.png
+  name: Kome Studio Status 
+  introTitle: "Kome Studio 🚀 KomeVerse 😊 Play Smile Belong"
   introMessage: Status page **real-time** data from our komestudio.com No server required
   navbar:
-    - title: Kome Studio Status
-      href: /
+    - title: Kome Studio
+      href: https://komestudio.com
     - title: GitHub
       href: https://github.com/KomeStudio/Status
+    - title: Tiktok
+      href: https://tiktok.com/@komestudios
+    - title: YouTube
+      href: https://youtube.com/@komestudios
+    - title: Facebook
+      href: https://facebook.com/komestudios
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
