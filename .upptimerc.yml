@@ -22,8 +22,6 @@ status-website:
   introTitle: "Kome Studio 🚀 KomeVerse 😊 Play Smile Belong"
   introMessage: Status page **real-time** data from our komestudio.com No server required
   navbar:
-    - title: Kome Studio
-      href: https://komestudio.com
     - title: GitHub
       href: https://github.com/KomeStudio/Status
     - title: Tiktok
