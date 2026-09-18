@@ -20,13 +20,15 @@ status-website:
   cname: status.komestudio.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/KomeStudio/Status/master/KomeD.png
-  name: Kome Studio Status 
+  name: Kome Studio Status
+  favicon: https://raw.githubusercontent.com/KomeStudio/Status/master/KomeD.png
+  # faviconSvg: https://example.com/logo.svg
   introTitle: "Kome Studio 🚀 KomeVerse 😊 Play Smile Belong"
   introMessage: Status page **real-time** data from our komestudio.com No server required
   navbar:
     - title: GitHub
       href: https://github.com/KomeStudio
-    - title: Tiktok
+    - title: TikTok
       href: https://tiktok.com/@komestudios
     - title: YouTube
       href: https://youtube.com/@komestudios
