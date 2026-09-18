@@ -23,7 +23,7 @@ status-website:
   introMessage: Status page **real-time** data from our komestudio.com No server required
   navbar:
     - title: GitHub
-      href: https://github.com/KomeStudio/Status
+      href: https://github.com/KomeStudio
     - title: Tiktok
       href: https://tiktok.com/@komestudios
     - title: YouTube
