@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/KomeStudio/Status/master/KomE.svg
   name: Kome Studio Status
-  # favicon: https://raw.githubusercontent.com/KomeStudio/Status/master/KomeD.png
+  # favicon: https://raw.githubusercontent.com/KomeStudio/Status/master/KomE.png
   faviconSvg: https://raw.githubusercontent.com/KomeStudio/Status/master/KomE.svg
   introTitle: "Kome Studio 🚀 KomeVerse 😊 Play Smile Belong"
   introMessage: Status page **real-time** data from our komestudio.com No server required
