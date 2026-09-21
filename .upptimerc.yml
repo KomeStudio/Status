@@ -19,10 +19,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.komestudio.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/KomeStudio/Status/master/KomeD.png
+  logoUrl: https://raw.githubusercontent.com/KomeStudio/Status/master/KomE.svg
   name: Kome Studio Status
-  favicon: https://raw.githubusercontent.com/KomeStudio/Status/master/KomeD.png
-  # faviconSvg: https://example.com/logo.svg
+  # favicon: https://raw.githubusercontent.com/KomeStudio/Status/master/KomeD.png
+  faviconSvg: https://raw.githubusercontent.com/KomeStudio/Status/master/KomE.svg
   introTitle: "Kome Studio 🚀 KomeVerse 😊 Play Smile Belong"
   introMessage: Status page **real-time** data from our komestudio.com No server required
   navbar:
